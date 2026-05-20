@@ -1,0 +1,18 @@
+Copyright (c) 2026 Zampier Zago
+
+All rights reserved.
+
+This repository, including its associated binaries (APKs), assets, and documentation, is provided strictly and exclusively for:
+- Technical evaluation
+- Security and architectural research
+- Academic or personal analysis
+
+Under this license, you are NOT permitted to:
+- Redistribute the compiled software or associated binaries.
+- Create derivative works for public release or commercial use.
+- Monetize, repackage, or rebrand the software under any circumstances.
+- Host the binaries on third-party platforms, websites, or app repositories.
+
+Note: While GitHub's Terms of Service permit the forking of public repositories for personal viewing and analysis, publishing modified builds, offering downloads, or redistributing the software from those forks remains strictly prohibited under this license.
+
+Unauthorized commercial usage or redistribution is strictly prohibited.
