@@ -65,3 +65,11 @@ This repository currently provides:
 - experimental runtime design exploration
 
 The project is intended for technical evaluation and research purposes.
+
+## Disclaimer
+
+PureCast does not modify proprietary binaries, circumvent DRM systems, or host/provide proprietary media content.
+
+The project operates exclusively as a constrained browser runtime and depends entirely on third-party web services and the local AdGuard filtering environment.
+
+This repository and its associated binaries are provided strictly for technical evaluation, architectural research, and experimental purposes only.
