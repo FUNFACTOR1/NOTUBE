@@ -1,7 +1,7 @@
 # PURECAST (Proof of Concept)
 <img width="150" alt="notube" src="https://github.com/user-attachments/assets/175e566b-32c7-42b3-8baa-696b08304950" />
 
-PURECAST is a lightweight Site-Specific Browser (SSB) engine optimized for the YouTube Mobile web experience.
+PURECAST is a lightweight Site-Specific Browser (SSB) engine optimized for constrained mobile web playback workflows.
 
 The project explores an alternative architectural approach for long-term playback stability by minimizing dependency on fragile frontend patching techniques and delegating all network filtering to the local AdGuard stack.
 
