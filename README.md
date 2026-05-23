@@ -8,11 +8,12 @@ The project explores an alternative architectural approach for long-term playbac
 Rather than modifying YouTube binaries, injecting complex scripts, or relying on UI-specific selectors, PURECAST constrains the playback environment itself through a hardened and minimal browser shell.
 
 
-https://github.com/user-attachments/assets/0d401aff-9abb-4c54-9284-9383a5ad293b
+
+https://github.com/user-attachments/assets/caa27367-9045-4592-8530-c98f2c3a58e2
 
 
 
-https://github.com/user-attachments/assets/f6b2623d-477d-432f-a286-be4a214d322d
+https://github.com/user-attachments/assets/790bfd0c-eac4-4570-8740-082bcfc22e92
 
 
 
